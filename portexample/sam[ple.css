@@ -1,0 +1,13 @@
+.maingrid {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1fr;
+    align-items: center;
+    justify-content: center;
+    background-color: gold;
+  }
+  
+  .centerthis {
+    align-self: center;
+    justify-self: center;
+  }
